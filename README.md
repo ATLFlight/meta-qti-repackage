@@ -19,3 +19,5 @@ Other than the LICENSE file, there are 2 types of files in the zip file:
 
 - ipk files (installable packages)
 - spkg files (build metadata needed for repackaging the ipk files)
+
+## NOTE: prebuilt_sdflight-0.0.1.zip is not yet available
